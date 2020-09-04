@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="magenCartaLogged">8dp</dimen>
+    <dimen name="textoTituloLogged">30sp</dimen>
+    <dimen name="textoCarta">27sp</dimen>
+    <dimen name="panelPIN">25sp</dimen>
+    <dimen name="cambiarPIN">15dp</dimen>
+    <dimen name="margenSeparador">25dp</dimen>
+    <dimen name="margenTituloPIN">30dp</dimen>
+    <dimen name="cambiarPINtexto">17sp</dimen>
+    <dimen name="margenTituloAyuda">25dp</dimen>
+    <dimen name="textoTituloAyuda">30sp</dimen>
+    <dimen name="textoAyuda">20sp</dimen>
+    <dimen name="margenInputsAyuda">45dp</dimen>
+</resources>

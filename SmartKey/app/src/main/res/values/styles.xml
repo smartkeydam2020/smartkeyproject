@@ -1,0 +1,112 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="tituloAyuda">
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:layout_marginBottom">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginLeft">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginRight">@dimen/margenTituloAyuda</item>
+        <item name="android:textSize">@dimen/textoTituloAyuda</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textoAyuda">
+        <item name="android:textColor">@color/negro</item>
+        <item name="android:layout_marginTop">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginBottom">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginLeft">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginRight">@dimen/margenTituloAyuda</item>
+        <item name="android:textSize">@dimen/textoAyuda</item>
+    </style>
+
+    <style name="margenBase">
+        <item name="android:layout_marginTop">@dimen/margenInputsAyuda</item>
+        <item name="android:layout_marginBottom">@dimen/margenInputsAyuda</item>
+        <item name="android:layout_marginLeft">@dimen/margenTituloAyuda</item>
+        <item name="android:layout_marginRight">@dimen/margenTituloAyuda</item>
+    </style>
+
+    <style name="margenBase.inputPhone">
+        <item name="android:hint">@string/ponerTelefono</item>
+    </style>
+
+    <style name="margenBase.inputEmail">
+        <item name="android:hint">@string/ponerEmail</item>
+    </style>
+
+    <style name="margenBase.inputUsername">
+        <item name="android:hint">@string/ponerUsername</item>
+    </style>
+
+    <style name="margenBase.inputPIN">
+        <item name="android:hint">@string/ponerPIN</item>
+    </style>
+
+    <style name="margenBase.inputrepetirPIN">
+        <item name="android:hint">@string/repetirPIN</item>
+    </style>
+
+    <style name="margenBase.inputCode">
+        <item name="android:hint">@string/ponerCodigo</item>
+    </style>
+
+    <style name="cartaCerradura">
+        <item name="android:layout_marginRight">@dimen/textoTituloLogged</item>
+        <item name="android:layout_marginLeft">@dimen/textoTituloLogged</item>
+        <item name="android:layout_marginBottom">@dimen/textoTituloLogged</item>
+        <item name="android:textSize">@dimen/textoCarta</item>
+    </style>
+
+    <style name="cartaCerraduraCard">
+        <item name="android:layout_marginRight">@dimen/magenCartaLogged</item>
+        <item name="android:layout_marginLeft">@dimen/magenCartaLogged</item>
+    </style>
+
+    <style name="panelPIN">
+        <item name="android:textSize">@dimen/panelPIN</item>
+        <item name="android:textColor">@color/blanco</item>
+    </style>
+
+    <style name="PINpuesto">
+        <item name="android:textSize">@dimen/panelPIN</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:layout_marginBottom">@dimen/margenTituloPIN</item>
+    </style>
+
+    <style name="cambiarPIN">
+        <item name="android:textSize">@dimen/cambiarPINtexto</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:layout_marginTop">@dimen/cambiarPIN</item>
+        <item name="android:layout_marginBottom">@dimen/cambiarPIN</item>
+        <item name="android:layout_marginRight">@dimen/cambiarPIN</item>
+        <item name="android:layout_marginLeft">@dimen/cambiarPIN</item>
+    </style>
+
+    <style name="separador">
+        <item name="android:layout_marginBottom">@dimen/cambiarPIN</item>
+        <item name="android:layout_marginRight">@dimen/margenSeparador</item>
+        <item name="android:layout_marginLeft">@dimen/margenSeparador</item>
+    </style>
+
+    <style name="tituloCambiarPIN">
+        <item name="android:layout_marginBottom">@dimen/cambiarPIN</item>
+        <item name="android:textSize">@dimen/cambiarPINtexto</item>
+        <item name="android:textColor">@color/blanco</item>
+    </style>
+
+    <style name="botonesAvance">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:textSize">@dimen/textoAyuda</item>
+    </style>
+
+</resources>

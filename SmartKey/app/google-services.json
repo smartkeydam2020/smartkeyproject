@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848014037087",
+    "firebase_url": "https://smartkey-a288c.firebaseio.com",
+    "project_id": "smartkey-a288c",
+    "storage_bucket": "smartkey-a288c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848014037087:android:4c768af269f315673ecbea",
+        "android_client_info": {
+          "package_name": "com.example.smartkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848014037087-btfa53u98vl468arq5k9bu5gsthpme8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartkey",
+            "certificate_hash": "c2bf6ac31007ece06d1a09d4d3b295f8fd5de616"
+          }
+        },
+        {
+          "client_id": "848014037087-8frc1s0oj433u5a8k424sqh9jk30029k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_TXOcR1J84nOmSp8KeyPj1Ogt9m68Cy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848014037087-8frc1s0oj433u5a8k424sqh9jk30029k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
